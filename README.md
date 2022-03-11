@@ -3,6 +3,10 @@
 - 😀 Me chamo Roberto
 - 💻 Trabalho atualmente na Indra como Analista de Qualidade
 - 📖 Estou aprofundando meu conhecimento em automação de testes em Cypress e em CI/CD. Além disso, também estou estudando automação mobile com Appium e Ruby
+<div align="right">
+  <p><b>Se não sabes, aprende; Se já sabes, ensina.</b></p>
+  <p><b>Confúcio</b></p>
+</div>
 
 <div align="center">
   <a href="https://github.com/RFilho01">

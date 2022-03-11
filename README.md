@@ -4,6 +4,7 @@
   <a href="https://github.com/RFilho01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RFilho01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFilho01&layout=compact&langs_count=6&theme=dark"/>
+  <img align="right" height=300 width=300 alt="Roberto-Gif" src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif">
 </div>
   
 <div style="display: inline_block"><br>
@@ -23,7 +24,18 @@
   <img align="center" alt="Roberto-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
    <img align="center" alt="Roberto-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
    <img align="center" alt="Roberto-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Roberto-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+   <img align="center" alt="Roberto-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+</div>
+  
+ ##
+  
+<div> 
+
+  <a href="https://www.linkedin.com/in/roberto-filho-a276461a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   

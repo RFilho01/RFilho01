@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 😀 Me chamo Roberto
+- 💻 Trabalho atualmente na Indra como Analista de Qualidade
+- 📖 Estou aprofundando meu conhecimento em automação de testes em Cypress e em CI/CD. Além disso, também estou estudando automação mobile com Appium e Ruby
+
 <div align="center">
   <a href="https://github.com/RFilho01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RFilho01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

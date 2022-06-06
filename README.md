@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😀 Me chamo Roberto
-- 💻 Trabalho atualmente na Indra como Analista de Qualidade
+- 💻 Trabalho atualmente na Neon como Quality Assurance Test Engineer
 - 📖 Estou aprofundando meu conhecimento em automação de testes em Cypress e em CI/CD. Além disso, também estou estudando automação mobile com Appium e Ruby
 
 

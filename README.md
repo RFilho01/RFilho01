@@ -10,15 +10,15 @@
   <p><b>Confúcio</b></p>
 </div>
   
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/RFilho01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RFilho01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFilho01&layout=compact&langs_count=6&theme=dark"/>
   <img align="right" height=150 width=150 alt="Roberto-Gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
-</div>
-  
+</div> -->
+
 <div align="center">
-  <img align="right" height=50 width=50 alt="gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
+  <img align="center" height=150 width=150 alt="Roberto-Gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
 </div>
   
 <div style="display: inline_block"><br>
@@ -51,5 +51,6 @@
 
 
 </div>
+  
   
  

@@ -10,6 +10,10 @@
   <p><b>Confúcio</b></p>
 </div>
 
+<div align="center"?
+  <img align="right" height=150 width=150 alt="Roberto-Gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
+</div>     
+
 <div align="center">
   <a href="https://github.com/RFilho01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RFilho01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -43,7 +47,7 @@
 
   <a href="https://www.linkedin.com/in/roberto-filho-a276461a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-    <img align="right" height=150 width=150 alt="Roberto-Gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
+
 
 
 </div>

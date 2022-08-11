@@ -42,6 +42,8 @@
 <div> 
 
   <a href="https://www.linkedin.com/in/roberto-filho-a276461a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+    <img align="right" height=150 width=150 alt="Roberto-Gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
 
 
 </div>

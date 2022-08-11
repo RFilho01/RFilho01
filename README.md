@@ -18,7 +18,7 @@
 </div>
   
 <div align="center">
-  <img align="center" height=10 width=10 alt="gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
+  <img align="right" height=10 width=10 alt="gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
 </div>
   
 <div style="display: inline_block"><br>

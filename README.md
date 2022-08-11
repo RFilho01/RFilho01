@@ -4,8 +4,6 @@
 - 💻 Trabalho atualmente na Neon como Quality Assurance Test Engineer
 - 📖 Estou aprofundando meu conhecimento em automação de testes em Cypress e em CI/CD. Além disso, também estou estudando automação mobile com Appium e Ruby
 
-<img align="right" height=150 width=150 alt="Roberto-Gif" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
-
 <div align="right">
   <br>
   <p><b>Se não sabes, aprende; Se já sabes, ensina.</b></p>

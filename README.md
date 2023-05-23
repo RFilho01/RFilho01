@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 😀 Me chamo Roberto
-- 💻 Trabalho atualmente na Neon como Quality Assurance Test Engineer
-- 📖 Estou aprofundando meu conhecimento em automação de testes em Cypress e em CI/CD. Além disso, também estou estudando automação mobile com Appium e Ruby
+- 😀 Me chamo Roberto;
+- 💻 Trabalho atualmente na Invillia como Senior Quality Assurance Test Engineer;
+- 📖 Estou aprofundando meu conhecimento em automação de testes em Kubernetes, Testes não-funcionais e Programação principalmente com Java e Go;
 
 <div align="right">
   <br>

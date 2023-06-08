@@ -2,7 +2,7 @@
 
 - 😀 Me chamo Roberto;
 - 💻 Trabalho atualmente na Invillia como Senior Quality Assurance Test Engineer;
-- 📖 Estou aprofundando meu conhecimento em automação de testes, Kubernetes, Testes não-funcionais e Programação principalmente com Java e Go;
+- 📖 Estou aprofundando meu conhecimento em Automação de Testes, CI/CD, Kubernetes, Testes não-funcionais e Programação, principalmente com Java e Go;
 
 <div align="right">
   <br>
